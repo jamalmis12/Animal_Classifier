@@ -14,8 +14,8 @@ st.set_page_config(
 st.markdown("""
     <style>
         body {
-            background-color: #121212;
-            color: white;
+            background-color: #red;
+            color: red;
         }
         .stApp {
             background: linear-gradient(135deg, #1a1a1a, #252525);
