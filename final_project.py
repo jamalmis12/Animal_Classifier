@@ -18,7 +18,7 @@ st.markdown("""
             color: white;
         }
         .stApp {
-            background: linear-gradient(135deg, #white, #white);
+            background: linear-gradient(135deg, #black;
         }
         .title {
             text-align: center;
