@@ -14,17 +14,18 @@ st.set_page_config(
 st.markdown("""
     <style>
         body {
-            background-color: #red;
-            color: red;
+            background-color: #121212;
+            color: white;
         }
         .stApp {
-            background: linear-gradient(135deg, #1a1a1a, #252525);
+            background: linear-gradient(135deg, #white, #white);
         }
         .title {
             text-align: center;
             font-size: 50px;
             font-weight: bold;
-            color: red;
+            color: #ffcc00;
+            text-shadow: 2px 2px 10px rgba(255, 204, 0, 0.7);
             animation: fadeIn 2s;
         }
         .subtitle {
