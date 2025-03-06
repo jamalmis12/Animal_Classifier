@@ -13,9 +13,6 @@ st.set_page_config(
 # Custom CSS for dark mode and styling
 st.markdown("""
     <style>
-        .stApp {
-            background: linear-gradient(135deg, #1a1a1a, #252525);
-        }
         .title {
             text-align: center;
             font-size: 50px;
