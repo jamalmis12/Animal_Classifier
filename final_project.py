@@ -13,10 +13,6 @@ st.set_page_config(
 # Custom CSS for dark mode and styling
 st.markdown("""
     <style>
-        body {
-            background-color: #121212;
-            color: white;
-        }
         .title {
             text-align: center;
             font-size: 50px;
