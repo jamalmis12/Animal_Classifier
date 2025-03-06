@@ -13,6 +13,10 @@ st.set_page_config(
 # Custom CSS for dark mode and styling
 st.markdown("""
     <style>
+        body {
+            background-color: #121212;
+            color: white;
+        }
         .stApp {
             background: linear-gradient(135deg, #1a1a1a, #252525);
         }
@@ -20,13 +24,14 @@ st.markdown("""
             text-align: center;
             font-size: 50px;
             font-weight: bold;
+            color: #ffcc00;
+            text-shadow: 2px 2px 10px rgba(255, 204, 0, 0.7);
             animation: fadeIn 2s;
-            color: #ccc;
         }
         .subtitle {
             text-align: center;
             font-size: 22px;
-            color: #ccc;
+            opacity: 0.8;
         }
         .description {
             text-align: center;
