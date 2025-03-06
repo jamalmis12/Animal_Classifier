@@ -21,13 +21,12 @@ st.markdown("""
             font-size: 50px;
             font-weight: bold;
             color: #ffcc00;
-            text-shadow: 2px 2px 10px rgba(255, 204, 0, 0.7);
             animation: fadeIn 2s;
         }
         .subtitle {
             text-align: center;
             font-size: 22px;
-            opacity: 0.8;
+            color: #ccc;
         }
         .description {
             text-align: center;
