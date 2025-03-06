@@ -18,10 +18,7 @@ st.markdown("""
             color: white;
         }
         .stApp {
-            background: linear-gradient(135deg, #black;
-        }
-        .title {
-            text-align: center;
+            background: linear-gradient(135deg, black, black;
             font-size: 50px;
             font-weight: bold;
             color: #ffcc00;
