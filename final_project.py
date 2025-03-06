@@ -20,7 +20,7 @@ st.markdown("""
             text-align: center;
             font-size: 50px;
             font-weight: bold;
-            color: #ffcc00;
+            color: #ccc;
             animation: fadeIn 2s;
         }
         .subtitle {
