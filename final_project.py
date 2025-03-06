@@ -18,7 +18,7 @@ st.markdown("""
             color: white;
         }
         .stApp {
-            background: linear-gradient(135deg, red, red;
+            background: linear-gradient(135deg, #1a1a1a, #252525;
             font-size: 50px;
             font-weight: bold;
             color: #ffcc00;
