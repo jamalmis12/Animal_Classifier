@@ -14,7 +14,7 @@ st.set_page_config(
 st.markdown("""
     <style>
         body {
-            background-color: #FFFFFF;
+            background-color: #121212;
             color: white;
         }
         .stApp {
@@ -24,8 +24,7 @@ st.markdown("""
             text-align: center;
             font-size: 50px;
             font-weight: bold;
-            color: #FFFFFF;
-            text-shadow: 2px 2px 10px rgba(255, 204, 0, 0.7);
+            color: red;
             animation: fadeIn 2s;
         }
         .subtitle {
